@@ -4,7 +4,7 @@
 define('DB_HOST', 'localhost');
 define('DB_NAME', 'task2');
 define('DB_USER', 'root');
-define('DB_PASS', 'lipouski123');
+define('DB_PASS', 'root');
 
 // настройки для файлов
 define('UPLOAD_DIR', $_SERVER['DOCUMENT_ROOT'] . '/wwwroot/uploads/');
